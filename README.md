@@ -12,7 +12,9 @@ In this challenge the following was accomplished:
 * The cryptocurrencies were clustered  with K-means using the original scaled data
   ![kmeans_plot1](https://github.com/vasabril98/CryptoClustering/blob/main/Images/kmeans_plot1.png)
 * The clusters were optimized with Principal Component Analysis
-   ![pca_data](https://github.com/vasabril98/CryptoClustering/blob/main/Images/pca_data.png)
+  
+  ![pca_data](https://github.com/vasabril98/CryptoClustering/blob/main/Images/pca_data.png)
+  
 * The best value for k was found using the PCA data
   ![elbow_plot2](https://github.com/vasabril98/CryptoClustering/blob/main/Images/elbow_plot2.png)
 * The Cryptocurrencies were clustered with K-means using the PCA data
